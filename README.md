@@ -1,0 +1,4 @@
+kedo
+====
+
+Stranky pro KEDo.
